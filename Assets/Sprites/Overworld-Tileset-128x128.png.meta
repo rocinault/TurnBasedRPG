@@ -1,0 +1,1834 @@
+fileFormatVersion: 2
+guid: e916d4ec75d619541bad1f7c746ce379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6938087974325654082
+    second: Overworld-Tileset-Grass-32x32-export_0
+  - first:
+      213: -3662843409427959169
+    second: Overworld-Tileset-Grass-32x32-export_1
+  - first:
+      213: -2249785900837789523
+    second: Overworld-Tileset-Grass-32x32-export_2
+  - first:
+      213: -6576927183596463702
+    second: Overworld-Tileset-Grass-32x32-export_3
+  - first:
+      213: -3954367014266744326
+    second: Overworld-Tileset-Grass-32x32-export_4
+  - first:
+      213: -4854908102165527774
+    second: Overworld-Tileset-Grass-32x32-export_5
+  - first:
+      213: 2029358186673269697
+    second: Overworld-Tileset-Grass-32x32-export_6
+  - first:
+      213: 7113678116200686144
+    second: Overworld-Tileset-Grass-32x32-export_7
+  - first:
+      213: 1610765478295629331
+    second: Overworld-Tileset-Grass-32x32-export_8
+  - first:
+      213: -8654456072542942998
+    second: Overworld-Tileset-Grass-32x32-export_9
+  - first:
+      213: 3753408986129169672
+    second: Overworld-Tileset-Grass-32x32-export_10
+  - first:
+      213: 36133369889416608
+    second: Overworld-Tileset-Grass-32x32-export_11
+  - first:
+      213: -6283840270461393655
+    second: Overworld-Tileset-Grass-32x32-export_12
+  - first:
+      213: -8217953502943634056
+    second: Overworld-Tileset-Grass-32x32-export_13
+  - first:
+      213: 3964503084331914862
+    second: Overworld-Tileset-Grass-32x32-export_14
+  - first:
+      213: 5097025652547612730
+    second: Overworld-Tileset-Grass-32x32-export_15
+  - first:
+      213: 1469053347437256168
+    second: Overworld-Tileset-Grass-64x64_0
+  - first:
+      213: -5793899782738028842
+    second: Overworld-Tileset-Grass-64x64_1
+  - first:
+      213: -2968540964283459460
+    second: Overworld-Tileset-Grass-64x64_2
+  - first:
+      213: -4527908989714326669
+    second: Overworld-Tileset-Grass-64x64_3
+  - first:
+      213: -8697221014555674087
+    second: Overworld-Tileset-Grass-64x64_4
+  - first:
+      213: 5706878893778411577
+    second: Overworld-Tileset-Grass-64x64_5
+  - first:
+      213: 7553976330485979996
+    second: Overworld-Tileset-Grass-64x64_6
+  - first:
+      213: -2480235123000543828
+    second: Overworld-Tileset-Grass-64x64_7
+  - first:
+      213: -6999743108057826728
+    second: Overworld-Tileset-Grass-64x64_8
+  - first:
+      213: 7361805218170620776
+    second: Overworld-Tileset-Grass-64x64_9
+  - first:
+      213: 4539275675719123850
+    second: Overworld-Tileset-Grass-64x64_10
+  - first:
+      213: -2009031189095431098
+    second: Overworld-Tileset-Grass-64x64_11
+  - first:
+      213: -7267197144340505025
+    second: Overworld-Tileset-Grass-64x64_12
+  - first:
+      213: 8914930919934673771
+    second: Overworld-Tileset-Grass-64x64_13
+  - first:
+      213: 5452554379351657673
+    second: Overworld-Tileset-Grass-64x64_14
+  - first:
+      213: -2342881614764784496
+    second: Overworld-Tileset-Grass-64x64_15
+  - first:
+      213: 3054860347731110347
+    second: Overworld-Tileset-Grass-64x64_16
+  - first:
+      213: -1002380944867805818
+    second: Overworld-Tileset-Grass-64x64_17
+  - first:
+      213: 697140108522449689
+    second: Overworld-Tileset-Grass-64x64_18
+  - first:
+      213: 3471720716035739129
+    second: Overworld-Tileset-Grass-64x64_19
+  - first:
+      213: 7490167843712999537
+    second: Overworld-Tileset-Grass-64x64_20
+  - first:
+      213: 6225192852958481839
+    second: Overworld-Tileset-Grass-64x64_21
+  - first:
+      213: -4868151205424485869
+    second: Overworld-Tileset-Grass-64x64_22
+  - first:
+      213: -4396748549885928762
+    second: Overworld-Tileset-Grass-64x64_23
+  - first:
+      213: 8057899825018745060
+    second: Overworld-Tileset-Grass-64x64_24
+  - first:
+      213: -9188693276684927005
+    second: Overworld-Tileset-128x128_0
+  - first:
+      213: 4435025296226575715
+    second: Overworld-Tileset-128x128_1
+  - first:
+      213: 5332416420944309936
+    second: Overworld-Tileset-128x128_2
+  - first:
+      213: 4364516533570738721
+    second: Overworld-Tileset-128x128_3
+  - first:
+      213: -6637662011205325060
+    second: Overworld-Tileset-128x128_4
+  - first:
+      213: 6591065842826749956
+    second: Overworld-Tileset-128x128_5
+  - first:
+      213: 4853705964699713841
+    second: Overworld-Tileset-128x128_6
+  - first:
+      213: 6113978802876275532
+    second: Overworld-Tileset-128x128_7
+  - first:
+      213: -8498142730373075153
+    second: Overworld-Tileset-128x128_8
+  - first:
+      213: 4450981059959780879
+    second: Overworld-Tileset-128x128_9
+  - first:
+      213: 5901559950457018671
+    second: Overworld-Tileset-128x128_10
+  - first:
+      213: -3898234129250746937
+    second: Overworld-Tileset-128x128_11
+  - first:
+      213: -3575527205444936569
+    second: Overworld-Tileset-128x128_12
+  - first:
+      213: 4625084036614675383
+    second: Overworld-Tileset-128x128_13
+  - first:
+      213: 5359083729632244370
+    second: Overworld-Tileset-128x128_14
+  - first:
+      213: -181080400956562620
+    second: Overworld-Tileset-128x128_15
+  - first:
+      213: -3448854208829428230
+    second: Overworld-Tileset-128x128_16
+  - first:
+      213: 9027789941390711453
+    second: Overworld-Tileset-128x128_17
+  - first:
+      213: -5130257465696892533
+    second: Overworld-Tileset-128x128_18
+  - first:
+      213: -7021358943318064239
+    second: Overworld-Tileset-128x128_19
+  - first:
+      213: -6098401038451027678
+    second: Overworld-Tileset-128x128_20
+  - first:
+      213: -9191229821373130916
+    second: Overworld-Tileset-128x128_21
+  - first:
+      213: 6507377415686344582
+    second: Overworld-Tileset-128x128_22
+  - first:
+      213: -4284757711529913883
+    second: Overworld-Tileset-128x128_23
+  - first:
+      213: 1417769197997752965
+    second: Overworld-Tileset-128x128_24
+  - first:
+      213: 319954539672674610
+    second: Overworld-Tileset-128x128_25
+  - first:
+      213: 7147471984903340348
+    second: Overworld-Tileset-128x128_26
+  - first:
+      213: -1960702440174295079
+    second: Overworld-Tileset-128x128_27
+  - first:
+      213: -1685293019339237299
+    second: Overworld-Tileset-128x128_28
+  - first:
+      213: -7216551134378440480
+    second: Overworld-Tileset-128x128_29
+  - first:
+      213: -5282046086134387473
+    second: Overworld-Tileset-128x128_30
+  - first:
+      213: -8469294793254353487
+    second: Overworld-Tileset-128x128_31
+  - first:
+      213: -6692046044151264124
+    second: Overworld-Tileset-128x128_32
+  - first:
+      213: 6257727692575430018
+    second: Overworld-Tileset-128x128_33
+  - first:
+      213: -9155209954031079430
+    second: Overworld-Tileset-128x128_34
+  - first:
+      213: -6854035253994193153
+    second: Overworld-Tileset-128x128_35
+  - first:
+      213: -5568744158289416089
+    second: Overworld-Tileset-128x128_36
+  - first:
+      213: 1845598698094514857
+    second: Overworld-Tileset-128x128_37
+  - first:
+      213: 2165036880651638062
+    second: Overworld-Tileset-128x128_38
+  - first:
+      213: 2842393834732346037
+    second: Overworld-Tileset-128x128_39
+  - first:
+      213: 3633962191986781552
+    second: Overworld-Tileset-128x128_40
+  - first:
+      213: 4168311132050191283
+    second: Overworld-Tileset-128x128_41
+  - first:
+      213: 7651724771133033272
+    second: Overworld-Tileset-128x128_42
+  - first:
+      213: -1893186372911800444
+    second: Overworld-Tileset-128x128_43
+  - first:
+      213: 8941758537485392334
+    second: Overworld-Tileset-128x128_44
+  - first:
+      213: 3324968622398039488
+    second: Overworld-Tileset-128x128_45
+  - first:
+      213: 4090790738209685211
+    second: Overworld-Tileset-128x128_46
+  - first:
+      213: 605650152531896513
+    second: Overworld-Tileset-128x128_47
+  - first:
+      213: -7309088490745338229
+    second: Overworld-Tileset-128x128_48
+  - first:
+      213: 9179416692591462023
+    second: Overworld-Tileset-128x128_49
+  - first:
+      213: -3476434015861494029
+    second: Overworld-Tileset-128x128_50
+  - first:
+      213: -8140903544621576825
+    second: Overworld-Tileset-128x128_51
+  - first:
+      213: 2558616467920808569
+    second: Overworld-Tileset-128x128_52
+  - first:
+      213: 4658296957454353748
+    second: Overworld-Tileset-128x128_53
+  - first:
+      213: -1593636793281794233
+    second: Overworld-Tileset-128x128_54
+  - first:
+      213: -4632494958511909970
+    second: Overworld-Tileset-128x128_55
+  - first:
+      213: 2234390454958642766
+    second: Overworld-Tileset-128x128_56
+  - first:
+      213: -8073950406603579647
+    second: Overworld-Tileset-128x128_57
+  - first:
+      213: 7736897013122525303
+    second: Overworld-Tileset-128x128_58
+  - first:
+      213: -7303796998158888501
+    second: Overworld-Tileset-128x128_59
+  - first:
+      213: 2630056077152615778
+    second: Overworld-Tileset-128x128_60
+  - first:
+      213: -1032439221748937038
+    second: Overworld-Tileset-128x128_61
+  - first:
+      213: -3420474551861553764
+    second: Overworld-Tileset-128x128_62
+  - first:
+      213: -1391987839978177189
+    second: Overworld-Tileset-128x128_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbc2d06243b7080800000000000000
+      internalID: -9188693276684927005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e47752006c8d30800000000000000
+      internalID: 4435025296226575715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be68d48b7c800a40800000000000000
+      internalID: 5332416420944309936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a9dcfb9a0e19c30800000000000000
+      internalID: 4364516533570738721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6003919942e3a0800000000000000
+      internalID: -6637662011205325060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40826ec867b287b50800000000000000
+      internalID: 6591065842826749956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310f1edbd3db5340800000000000000
+      internalID: 4853705964699713841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b55b5f35739d450800000000000000
+      internalID: 6113978802876275532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f6b893638801a80800000000000000
+      internalID: -8498142730373075153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f4e411bf05cd30800000000000000
+      internalID: 4450981059959780879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2999a3d18d86e150800000000000000
+      internalID: 5901559950457018671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd74b296b0b6e9c0800000000000000
+      internalID: -3898234129250746937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c95ba53fc216ec0800000000000000
+      internalID: -3575527205444936569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb5fb23d699f2040800000000000000
+      internalID: 4625084036614675383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923e4a224a4f5a40800000000000000
+      internalID: 5359083729632244370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e231b55cac7df0800000000000000
+      internalID: -181080400956562620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6c90be553320d0800000000000000
+      internalID: -3448854208829428230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1073de17294d70800000000000000
+      internalID: 9027789941390711453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8947d6240aadc8b0800000000000000
+      internalID: -5130257465696892533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c307ed3f1f8e90800000000000000
+      internalID: -7021358943318064239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d045f0902e5ba0800000000000000
+      internalID: -6098401038451027678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d318bc21327080800000000000000
+      internalID: -9191229821373130916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f42613849de4a50800000000000000
+      internalID: 6507377415686344582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d4af109b7984c0800000000000000
+      internalID: -4284757711529913883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582852ce29deca310800000000000000
+      internalID: 1417769197997752965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a67965f4b07400800000000000000
+      internalID: 319954539672674610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31483eb6ebe03360800000000000000
+      internalID: 7147471984903340348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d76b27d48f2ac4e0800000000000000
+      internalID: -1960702440174295079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d6df8de2ac98e0800000000000000
+      internalID: -1685293019339237299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84eeb6af8a9db90800000000000000
+      internalID: -7216551134378440480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca7b4f11762b6b0800000000000000
+      internalID: -5282046086134387473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5420ef145077a80800000000000000
+      internalID: -8469294793254353487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c4ecd24931123a0800000000000000
+      internalID: -6692046044151264124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28555197e2ae7d650800000000000000
+      internalID: 6257727692575430018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff6bdd9d0922f080800000000000000
+      internalID: -9155209954031079430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffefbaf204391e0a0800000000000000
+      internalID: -6854035253994193153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b02841b8d7b2b0800000000000000
+      internalID: -5568744158289416089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d8ddcc32ec9910800000000000000
+      internalID: 1845598698094514857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e255cd47291cb0e10800000000000000
+      internalID: 2165036880651638062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba5bfe0226327720800000000000000
+      internalID: 2842393834732346037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d629c2c5d6e6230800000000000000
+      internalID: 3633962191986781552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b37823d3e0d8d930800000000000000
+      internalID: 4168311132050191283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b01768323603a60800000000000000
+      internalID: 7651724771133033272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f5bfc360d0ab5e0800000000000000
+      internalID: -1893186372911800444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9122ea302871c70800000000000000
+      internalID: 8941758537485392334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ea5b7859a42e20800000000000000
+      internalID: 3324968622398039488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde3271a08865c830800000000000000
+      internalID: 4090790738209685211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c823d7da93b76800800000000000000
+      internalID: 605650152531896513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866a3d2eb6e09a90800000000000000
+      internalID: -7309088490745338229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868437e8d6d36f70800000000000000
+      internalID: 9179416692591462023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fead777ea931cfc0800000000000000
+      internalID: -3476434015861494029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dcc18cb53b50f80800000000000000
+      internalID: -8140903544621576825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a62e61f18028320800000000000000
+      internalID: 2558616467920808569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455895fe66895a040800000000000000
+      internalID: 4658296957454353748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f227ba7c342e9e0800000000000000
+      internalID: -1593636793281794233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea31c16116216bfb0800000000000000
+      internalID: -4632494958511909970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46555dc746220f10800000000000000
+      internalID: 2234390454958642766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fd54002e093ff80800000000000000
+      internalID: -8073950406603579647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e2f277dafe5b60800000000000000
+      internalID: 7736897013122525303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1dc2dc353b3aa90800000000000000
+      internalID: -7303796998158888501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df90a4116df7420800000000000000
+      internalID: 2630056077152615778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be49777ff90ca1f0800000000000000
+      internalID: -1032439221748937038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95570d74880880d0800000000000000
+      internalID: -3420474551861553764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-128x128_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dff624f6aaeace0800000000000000
+      internalID: -1391987839978177189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Overworld-Tileset-128x128_51: -8140903544621576825
+      Overworld-Tileset-128x128_0: -9188693276684927005
+      Overworld-Tileset-128x128_50: -3476434015861494029
+      Overworld-Tileset-128x128_9: 4450981059959780879
+      Overworld-Tileset-128x128_17: 9027789941390711453
+      Overworld-Tileset-128x128_57: -8073950406603579647
+      Overworld-Tileset-128x128_7: 6113978802876275532
+      Overworld-Tileset-128x128_1: 4435025296226575715
+      Overworld-Tileset-128x128_32: -6692046044151264124
+      Overworld-Tileset-128x128_55: -4632494958511909970
+      Overworld-Tileset-128x128_41: 4168311132050191283
+      Overworld-Tileset-128x128_44: 8941758537485392334
+      Overworld-Tileset-128x128_62: -3420474551861553764
+      Overworld-Tileset-128x128_20: -6098401038451027678
+      Overworld-Tileset-128x128_11: -3898234129250746937
+      Overworld-Tileset-128x128_3: 4364516533570738721
+      Overworld-Tileset-128x128_60: 2630056077152615778
+      Overworld-Tileset-128x128_18: -5130257465696892533
+      Overworld-Tileset-128x128_2: 5332416420944309936
+      Overworld-Tileset-128x128_10: 5901559950457018671
+      Overworld-Tileset-128x128_61: -1032439221748937038
+      Overworld-Tileset-128x128_49: 9179416692591462023
+      Overworld-Tileset-128x128_14: 5359083729632244370
+      Overworld-Tileset-128x128_53: 4658296957454353748
+      Overworld-Tileset-128x128_13: 4625084036614675383
+      Overworld-Tileset-128x128_43: -1893186372911800444
+      Overworld-Tileset-128x128_30: -5282046086134387473
+      Overworld-Tileset-128x128_33: 6257727692575430018
+      Overworld-Tileset-128x128_16: -3448854208829428230
+      Overworld-Tileset-128x128_35: -6854035253994193153
+      Overworld-Tileset-128x128_34: -9155209954031079430
+      Overworld-Tileset-128x128_48: -7309088490745338229
+      Overworld-Tileset-128x128_52: 2558616467920808569
+      Overworld-Tileset-128x128_36: -5568744158289416089
+      Overworld-Tileset-128x128_59: -7303796998158888501
+      Overworld-Tileset-128x128_46: 4090790738209685211
+      Overworld-Tileset-128x128_22: 6507377415686344582
+      Overworld-Tileset-128x128_15: -181080400956562620
+      Overworld-Tileset-128x128_26: 7147471984903340348
+      Overworld-Tileset-128x128_47: 605650152531896513
+      Overworld-Tileset-128x128_37: 1845598698094514857
+      Overworld-Tileset-128x128_40: 3633962191986781552
+      Overworld-Tileset-128x128_63: -1391987839978177189
+      Overworld-Tileset-128x128_6: 4853705964699713841
+      Overworld-Tileset-128x128_5: 6591065842826749956
+      Overworld-Tileset-128x128_28: -1685293019339237299
+      Overworld-Tileset-128x128_45: 3324968622398039488
+      Overworld-Tileset-128x128_54: -1593636793281794233
+      Overworld-Tileset-128x128_56: 2234390454958642766
+      Overworld-Tileset-128x128_4: -6637662011205325060
+      Overworld-Tileset-128x128_39: 2842393834732346037
+      Overworld-Tileset-128x128_19: -7021358943318064239
+      Overworld-Tileset-128x128_58: 7736897013122525303
+      Overworld-Tileset-128x128_25: 319954539672674610
+      Overworld-Tileset-128x128_23: -4284757711529913883
+      Overworld-Tileset-128x128_21: -9191229821373130916
+      Overworld-Tileset-128x128_8: -8498142730373075153
+      Overworld-Tileset-128x128_42: 7651724771133033272
+      Overworld-Tileset-128x128_38: 2165036880651638062
+      Overworld-Tileset-128x128_29: -7216551134378440480
+      Overworld-Tileset-128x128_24: 1417769197997752965
+      Overworld-Tileset-128x128_27: -1960702440174295079
+      Overworld-Tileset-128x128_31: -8469294793254353487
+      Overworld-Tileset-128x128_12: -3575527205444936569
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

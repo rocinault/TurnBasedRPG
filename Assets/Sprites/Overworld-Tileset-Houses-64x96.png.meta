@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: 6f103e0412b1ec341bf53bde1ab6be14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2079455420562759175
+    second: Overworld-Tileset-Houses-64x96_0
+  - first:
+      213: 8011987214238746396
+    second: Overworld-Tileset-Houses-64x96_1
+  - first:
+      213: -3240693865548646484
+    second: Overworld-Tileset-Houses-64x96_2
+  - first:
+      213: -148254094599258389
+    second: Overworld-Tileset-Houses-64x96_3
+  - first:
+      213: -5077115983943980141
+    second: Overworld-Tileset-Houses-64x96_4
+  - first:
+      213: -666594217083000278
+    second: Overworld-Tileset-Houses-64x96_5
+  - first:
+      213: -2926985613500017499
+    second: Overworld-Tileset-Houses-64x96_6
+  - first:
+      213: 5648538284426103941
+    second: Overworld-Tileset-Houses-64x96_7
+  - first:
+      213: -6283328275420823537
+    second: Overworld-Tileset-Houses-64x96_8
+  - first:
+      213: 3340694324549072726
+    second: Overworld-Tileset-Houses-64x96_9
+  - first:
+      213: -2148687369233520477
+    second: Overworld-Tileset-Houses-64x96_10
+  - first:
+      213: 7663885150456339454
+    second: Overworld-Tileset-Houses-64x96_11
+  - first:
+      213: -2873944428895347308
+    second: Overworld-Tileset-Houses-64x96_12
+  - first:
+      213: 1058007621747751005
+    second: Overworld-Tileset-Houses-64x96_13
+  - first:
+      213: 1528655812194150330
+    second: Overworld-Tileset-Houses-64x96_14
+  - first:
+      213: -5115271639630060905
+    second: Overworld-Tileset-Houses-64x96_15
+  - first:
+      213: 7510470165315191195
+    second: Overworld-Tileset-Houses-64x96_16
+  - first:
+      213: -5577855410517711326
+    second: Overworld-Tileset-Houses-64x96_17
+  - first:
+      213: 483634872499139026
+    second: Overworld-Tileset-Houses-64x96_18
+  - first:
+      213: 5476672197097617956
+    second: Overworld-Tileset-Houses-64x96_19
+  - first:
+      213: -2376583195065879641
+    second: Overworld-Tileset-Houses-64x96_20
+  - first:
+      213: -948024199615651281
+    second: Overworld-Tileset-Houses-64x96_21
+  - first:
+      213: 4677719676631733533
+    second: Overworld-Tileset-Houses-64x96_22
+  - first:
+      213: 6073525229089487049
+    second: Overworld-Tileset-Houses-64x96_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1a81bff4a4423e0800000000000000
+      internalID: -2079455420562759175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c170ca90ceb403f60800000000000000
+      internalID: 8011987214238746396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca77f26691eb603d0800000000000000
+      internalID: -3240693865548646484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef9eabfab41fdf0800000000000000
+      internalID: -148254094599258389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39baf8d89e57a89b0800000000000000
+      internalID: -5077115983943980141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a20716718cfb6f0800000000000000
+      internalID: -666594217083000278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a417a4a7124167d0800000000000000
+      internalID: -2926985613500017499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c896774a3a36e40800000000000000
+      internalID: 5648538284426103941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00cf5859322dc8a0800000000000000
+      internalID: -6283328275420823537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65739e5d9c78c5e20800000000000000
+      internalID: 3340694324549072726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a77fc8345e22e0800000000000000
+      internalID: -2148687369233520477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb575870f69b5a60800000000000000
+      internalID: 7663885150456339454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dda7bc4c2bd18d0800000000000000
+      internalID: -2873944428895347308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d583eef835cceae00800000000000000
+      internalID: 1058007621747751005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab72badac50e63510800000000000000
+      internalID: 1528655812194150330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792683eab87e209b0800000000000000
+      internalID: -5115271639630060905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9108cbb2dc8a3860800000000000000
+      internalID: 7510470165315191195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e99f8e0a7792b0800000000000000
+      internalID: -5577855410517711326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d17d48aa5736b600800000000000000
+      internalID: 483634872499139026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af24bb85c010c40800000000000000
+      internalID: 5476672197097617956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a37feefc2ea40fd0800000000000000
+      internalID: -2376583195065879641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f226f676301f7d2f0800000000000000
+      internalID: -948024199615651281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d155d7423499ae040800000000000000
+      internalID: 4677719676631733533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld-Tileset-Houses-64x96_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c87046540f794450800000000000000
+      internalID: 6073525229089487049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Overworld-Tileset-Houses-64x96_20: -2376583195065879641
+      Overworld-Tileset-Houses-64x96_15: -5115271639630060905
+      Overworld-Tileset-Houses-64x96_19: 5476672197097617956
+      Overworld-Tileset-Houses-64x96_18: 483634872499139026
+      Overworld-Tileset-Houses-64x96_22: 4677719676631733533
+      Overworld-Tileset-Houses-64x96_0: -2079455420562759175
+      Overworld-Tileset-Houses-64x96_10: -2148687369233520477
+      Overworld-Tileset-Houses-64x96_17: -5577855410517711326
+      Overworld-Tileset-Houses-64x96_4: -5077115983943980141
+      Overworld-Tileset-Houses-64x96_9: 3340694324549072726
+      Overworld-Tileset-Houses-64x96_2: -3240693865548646484
+      Overworld-Tileset-Houses-64x96_3: -148254094599258389
+      Overworld-Tileset-Houses-64x96_6: -2926985613500017499
+      Overworld-Tileset-Houses-64x96_21: -948024199615651281
+      Overworld-Tileset-Houses-64x96_13: 1058007621747751005
+      Overworld-Tileset-Houses-64x96_1: 8011987214238746396
+      Overworld-Tileset-Houses-64x96_5: -666594217083000278
+      Overworld-Tileset-Houses-64x96_14: 1528655812194150330
+      Overworld-Tileset-Houses-64x96_8: -6283328275420823537
+      Overworld-Tileset-Houses-64x96_23: 6073525229089487049
+      Overworld-Tileset-Houses-64x96_16: 7510470165315191195
+      Overworld-Tileset-Houses-64x96_12: -2873944428895347308
+      Overworld-Tileset-Houses-64x96_7: 5648538284426103941
+      Overworld-Tileset-Houses-64x96_11: 7663885150456339454
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
